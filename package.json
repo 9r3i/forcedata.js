@@ -1,0 +1,24 @@
+{
+  "name": "@9r3i/forcedata",
+  "version": "2.0.4",
+  "description": "Data management for ForceServer",
+  "main": "forcedata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "force",
+    "data",
+    "base"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9r3i/forcedata.js.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "author": "9r3i",
+  "license": "MIT"
+}
